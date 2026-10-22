@@ -2,7 +2,9 @@
 
 **AI 应用工程师｜前端与跨端开发专长｜全栈研发与交付经验**
 
-10 年软件研发经验，擅长 React / Next.js / Vue Web 前端与 React Native / Expo 移动端跨平台开发，具备服务端研发、数据库集成及部署交付经验，能够独立推进 AI 应用从交互设计到上线维护。
+iOS 出身，主打一个“怕没人要，就多会一点”：先做跨端，再写 Web，后来接上 AI，连服务端、数据库、部署和线上排障也陆续接了。本来想拓宽求职范围，结果一路拓宽了职责范围。
+
+10 年软件研发经验，主场仍是 Web 前端与移动端跨端开发，具备全栈研发、AI 应用落地及工程交付经验，能把功能写出来，也能把服务部署起来、把线上问题查明白。
 
 ## 实践方向与技术方案
 
@@ -14,10 +16,11 @@
 
 ## 技术方向
 
-- **AI 应用：** LLM API、MCP、结构化输出、Embedding / RAG、ASR / TTS、评测与工作流编排。
-- **前端与跨端：** TypeScript、React Native / Expo、React / Next.js、Vue、Zustand、RxJS。
-- **服务与数据：** Python / FastAPI、PostgreSQL、API 聚合与访问控制。
-- **工程交付：** GitHub Actions、GitLab / Jenkins、Docker、Harbor、Kubernetes。
+- **主场 · Web 前端：** TypeScript、React / Next.js、Vue；组件化、状态管理、复杂表单与数据可视化。
+- **老本行与延伸 · iOS / 跨端：** Objective-C / Swift、React Native / Expo、Zustand、RxJS；原生模块接入、双端适配与复杂异步交互。
+- **持续扩展 · AI 应用：** LLM API、Embedding / RAG、MCP、ASR / TTS；结构化输出、工作流编排与评测回归。
+- **业务需要 · 服务与数据：** Python / FastAPI、TypeScript 服务端、PostgreSQL；API 集成、访问控制与任务持久化。
+- **上线以后 · 工程交付与运行维护：** GitHub Actions、GitLab / Jenkins、Docker、Harbor、Kubernetes；持续集成、容器化部署与线上问题排查。
 
 ## 公众号与内容项目
 
