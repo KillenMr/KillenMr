@@ -18,3 +18,13 @@
 - **前端与跨端：** TypeScript、React Native / Expo、React / Next.js、Vue、Zustand、RxJS。
 - **服务与数据：** Python / FastAPI、PostgreSQL、API 聚合与访问控制。
 - **工程交付：** GitHub Actions、GitLab / Jenkins、Docker、Harbor、Kubernetes。
+
+## 公众号与内容项目
+
+**公众号：科技日讯**，关注科技动态与开发者资讯。
+
+<img src="https://raw.githubusercontent.com/KillenMr/bytebrief/main/assets/images/qrcode_for_gh_b6ee187cb83c_258.jpg" width="160" alt="公众号「科技日讯」二维码">
+
+**ByteBrief** 是「科技日讯」的配套内容生产项目，公开仓库提供基于 Next.js、React 与 Supabase 的简报阅读站，支持开发者资讯与科技资讯双资讯流、来源链接和往期归档。
+
+[项目仓库](https://github.com/KillenMr/bytebrief) · [在线预览](https://killenmr.github.io/bytebrief/)
