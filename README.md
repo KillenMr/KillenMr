@@ -32,3 +32,14 @@ iOS 出身，主打一个“怕没人要，就多会一点”：先做跨端，�
 **ByteBrief** 是「科技日讯」的配套内容生产项目，公开仓库提供基于 Next.js、React 与 Supabase 的简报阅读站，支持开发者资讯与科技资讯双资讯流、来源链接和往期归档。
 
 [项目仓库](https://github.com/KillenMr/bytebrief) · [在线预览](https://killenmr.github.io/bytebrief/)
+
+<details>
+<summary>日常工作环境</summary>
+
+- **主力办公：** Linux（Ubuntu / GNOME / Wayland），日常开发的主阵地。开发环境、桌面配置、输入法与键盘适配记录在 [ubuntu-setup](https://github.com/KillenMr/ubuntu-setup)。
+
+  用惯了苹果触控板，搬到 Ubuntu 后最放不下的还是三指拖拽，于是折腾了 [gnome-three-finger-drag](https://github.com/KillenMr/gnome-three-finger-drag)：补齐 GNOME / Wayland 下的三指拖拽，窗口、文件、文本选区都能拖，也保留了四指切换工作区和进出概览的手势。决定把 Linux 当主力开发环境，最后居然是靠三根手指拍的板。
+
+- **移动办公：** Mac，外出时随身携带。
+
+</details>
